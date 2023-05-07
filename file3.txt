@@ -1,5 +1,12 @@
 This is github created gfile
+<<<<<<< Updated upstream
 dffbc
 
 
 newly added lines
+
+vcbcvbcvbcx
+
+
+this is locally edited line
+>>>>>>> Stashed changes
